@@ -6,7 +6,7 @@
 
 **ÖDEV 1**
 
-**Solid Prensipleri**
+[**Solid Prensipleri**]()
 
 1-Single Responsibility Principle(Tek Sorumluluk Prensibi)
 
