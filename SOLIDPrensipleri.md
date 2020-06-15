@@ -1,7 +1,6 @@
 02.06.2020
 
 **Hatice Usta**
-[Takip Edilebilecek Kişiler](https://github.com/Kodluyoruz51BootcampMVCCore/arastirma-odevi-HaticeUsta/blob/master/SOLIDPrensipleri.md#takip-edilebilecek-ki%C5%9Filer)
 **51. İstanbul C#.Net Core ile MVC Bootcamp**
 
 **ÖDEV 1**
